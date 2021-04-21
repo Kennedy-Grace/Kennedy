@@ -1,7 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title> Unknown </title>
-<link href="style.css" type="text/css" rel="stylesheet" />
-</head>
+p {
+	color:#474954
+	font-family: 'Ubuntu Mono', monospace;
 
+}
+
+body {
+	background-color: #D4DFFF
+}
+h1 {
+	color: #5D4D76
+	font-family: 'Ubuntu Mono', monospace;
+
+}
