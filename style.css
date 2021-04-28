@@ -1,14 +1,27 @@
 p {
 	color:#474954
-	font-family: 'Ubuntu Mono', monospace;
+	font-family 'Ubuntu Mono', monospace;
 
 }
 
 body {
 	background-color: #D4DFFF
 }
-h1 {
-	color: #5D4D76
-	font-family: 'Ubuntu Mono', monospace;
 
+h1, p {
+color: #5d4d76;
+font-family: 'Ubuntu Mono', monospace;
+
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+
+}
+img {
+	border: 5px solid #1f2039;
+	border-radius: 10%;
 }
