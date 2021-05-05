@@ -1,2 +1,2 @@
-# .github.io
+# kennedy-grace.github.io
 
