@@ -1,2 +1,2 @@
-# practice
-this is just practice
+# .github.io
+
